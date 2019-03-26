@@ -10,7 +10,4 @@ FINANSE
 9.	Przetestowanie zakładki Finanse → Raporty → Raport Zbiorczy (Roksana)
 10.	Przetestowanie zakładki Finanse → Raporty → Raport Indywidualny (Roksana)
 
-
-dodano nowe pozycje backlogu
-
-dodano kolejne pozycje 
+wprowadzono zmiany
