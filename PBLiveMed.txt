@@ -12,3 +12,5 @@ FINANSE
 
 
 dodano nowe pozycje backlogu
+
+dodano kolejne pozycje 
